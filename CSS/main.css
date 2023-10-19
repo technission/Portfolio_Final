@@ -5,6 +5,7 @@
 body {
   background-image: url("../IMAGES/blue_back.jpg");
   background-repeat: no-repeat;
+  background-size: cover;
   margin: 0;
   padding: 0;
 }
@@ -113,6 +114,7 @@ p {
 .navbar-links li a:hover {
   color: black;
   text-decoration: solid;
+  text-shadow: none;
 }
 
 .toggle-button {
